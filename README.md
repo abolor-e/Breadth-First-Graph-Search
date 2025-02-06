@@ -16,6 +16,7 @@
 
 ## Vacuum World States
   ![image](https://github.com/user-attachments/assets/49b79f1c-15c1-47de-9e54-490deea6a302)
+Source: https://cs.stackexchange.com/questions/134581/ai-search-state-in-the-toy-vacuum-problem 
 
 ## Solution
 - Solution is found when Sites A and B are clean.
