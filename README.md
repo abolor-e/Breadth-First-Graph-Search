@@ -1,4 +1,4 @@
-# Vacuum World problem solution with Breadth-First Graph Search (AI)!
+# Vacuum World problem solution with Breadth-First Graph AI Search Algo!
 
 - Uninformed search algorithm using First-In-First-Out queue as a frontier. 
 - No additional knowledge (information) is given to the code. 
