@@ -15,7 +15,9 @@
 - Generated states which have new (unseen) state_ID will be added to the frontier and will wait until its turn to be popped (POP) from the queue to be expanded and generate new states.
 
 ## Vacuum World States
+
   ![image](https://github.com/user-attachments/assets/49b79f1c-15c1-47de-9e54-490deea6a302)
+
 Source: https://cs.stackexchange.com/questions/134581/ai-search-state-in-the-toy-vacuum-problem 
 
 ## Solution
